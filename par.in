@@ -1,0 +1,9 @@
+ped.txt # pedigree file
+gen.txt # genotype file
+map.txt # map file 
+0.05 # threshold of MAF to remove 
+0.9 # threshold for marker call rate to retain
+0.9 # threshold for individual call rate to retain
+0.95 # lambda
+1 # tau
+1 # omega
